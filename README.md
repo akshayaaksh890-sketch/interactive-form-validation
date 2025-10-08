@@ -9,5 +9,3 @@ Best Practices Keep validation messages clear, actionable, and positioned close 
 
 deloyed link: https://drive.google.com/file/d/1CC-1Cy_7bfb-L25gOIyPmVoGKV5--u33/view?usp=drivesdk
 
-
-Commu
